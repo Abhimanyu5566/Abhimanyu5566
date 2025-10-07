@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Profile README for Abhimanyu Vishwakarma -->
+<h1 align="center">👋 Hi, I'm Abhimanyu Vishwakarma</h1>
 
-<!--
-**Abhimanyu5566/Abhimanyu5566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Java Developer | Spring Boot | Angular | MySQL | Cloud Enthusiast  
+  <br>
+  💡 Passionate about building scalable full-stack applications and exploring backend architectures.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 I'm a **Java Developer** with a strong interest in full-stack web development.  
+- 🧩 Skilled in **Spring Boot**, **Angular**, **RESTful APIs**, and **MySQL**.  
+- ☁️ Currently learning about **Microservices**, **Dock**
