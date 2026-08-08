@@ -1,90 +1,69 @@
-Here is your **clean, copy-paste ready README.md (improved version)** — I only refined wording, structure, and professionalism while keeping your content intact:
-
-```
-# Hi, I'm Abhimanyu Vishwakarma 👋
+# 👋 Hi, I'm Abhimanyu Vishwakarma
 
 ### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-I'm a Software Development Trainee focused on building scalable and reliable backend applications using Java and Spring Boot.
+I'm a **Java Developer** focused on building reliable backend applications and RESTful APIs using **Java and Spring Boot**.
 
-I enjoy designing REST APIs, working with database-driven systems, building backend architectures, applying design patterns, and automating backend workflows.
+Currently working as a **Software Development Trainee**, where I work with API integration, UAT, Spring Boot scheduling, and backend development.
 
----
+### 🚀 What I Work With
 
-## 🚀 What I Work With
+* ☕ Java
+* 🌱 Spring Boot / Spring MVC
+* 🔗 RESTful APIs
+* 🗄️ MySQL / SQL
+* 🧩 OOP & Design Patterns
+* 🏭 Factory Pattern
+* ⏰ Spring Boot Scheduler
+* 🧪 Postman / API Testing / UAT
+* 📦 Maven
+* 🔧 Git & GitHub
+* 🐳 Docker — Learning
+* ☁️ Cloud & Microservices — Learning
+* 🤖 AI/ML integration for backend applications — Exploring
 
-- ☕ Java (Core + Advanced)
-- 🌱 Spring Boot
-- 🔗 RESTful APIs
-- 🗄️ MySQL
-- 🧩 Spring Data JPA / Hibernate
-- 🏗️ Design Patterns
-- ⚙️ Spring Boot Scheduler
-- 🔄 API Integration
-- 🧪 API Testing & UAT
-- 🛠️ Maven
-- 🔧 Git & GitHub
+### 💻 Featured Projects
 
----
+#### 🧾 Store Billing System
 
-## 📌 Featured Projects
+Spring Boot based billing application demonstrating backend development, database integration and business logic.
 
-### 🧾 Store Billing System
-A Spring Boot-based billing application for managing products, customers, and billing operations with clean layered architecture.
+**Tech:** Java • Spring Boot • SQL
 
-**Tech Stack:** Java, Spring Boot, MySQL, JPA/Hibernate
+#### 📝 Blog REST API
 
----
+CRUD-based backend application demonstrating REST API development and database operations.
 
-### 📝 Blog Management API
-A RESTful backend application for performing CRUD operations on blog posts with proper API structure and database integration.
+**Tech:** Java • Spring Boot • REST API • MySQL
 
-**Tech Stack:** Java, Spring Boot, REST API, JPA/Hibernate
+#### 🏫 Spring Boot Management Projects
 
----
+Collection of Spring Boot applications covering backend concepts, business logic and application development.
 
-### 🏫 Spring Boot Management Projects
-A collection of backend applications demonstrating Spring Boot fundamentals, database integration, and layered architecture design.
+### 📚 Currently Improving
 
----
+* Advanced Java
+* Data Structures & Algorithms
+* Spring Boot
+* Spring Security & JWT
+* JPA / Hibernate
+* REST API Design
+* Microservices
+* Docker
+* CI/CD
+* System Design
+* Cloud Technologies
+* AI/ML integration with Java applications
 
-## 🌱 Currently Improving
+### 🎯 Career Goal
 
-- Advanced Java
-- Spring Boot (Deep Dive)
-- Spring Security & JWT Authentication
-- REST API Design Best Practices
-- Microservices Architecture
-- Docker & Containerization
-- CI/CD Pipelines
-- System Design Fundamentals
-- Data Structures & Algorithms
-- AI Integration with Java Applications
+Looking for opportunities as a **Java / Spring Boot Developer** where I can contribute to real-world backend systems, improve my engineering skills and build scalable applications.
 
----
+### 📫 Connect With Me
 
-## 🎯 Career Goal
-
-Seeking opportunities as a **Java / Spring Boot Backend Developer** where I can contribute to real-world scalable backend systems, improve system design skills, and grow as a software engineer.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Abhimanyu Vishwakarma](https://www.linkedin.com/in/abhimanyu-vishwakarma-5b9361214/)
-- 💻 GitHub: [Abhimanyu5566](https://github.com/Abhimanyu5566)
+* 💼 LinkedIn: [Abhimanyu Vishwakarma](https://www.linkedin.com/in/abhimanyu-vishwakarma-5b9361214/)
+* 🐙 GitHub: [@Abhimanyu5566](https://github.com/Abhimanyu5566)
 
 ---
 
-⭐ Thanks for visiting my profile!
-```
-
----
-
-If you want next level improvement, I can also:
-✅ Add GitHub stats card
-✅ Add project links (clickable repos)
-✅ Add badges (Java, Spring Boot, MySQL)
-✅ Make it look like a **top 1% developer profile README**
-
-Just tell me 👍
+⭐ Feel free to explore my repositories and projects.
